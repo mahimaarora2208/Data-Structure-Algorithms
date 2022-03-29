@@ -1,3 +1,4 @@
 # Data-Structure-Algorithms
 
-Differet DS algorithms to be implemented in future
+Differet DS algorithms implemented in C++.
+
